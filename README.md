@@ -4,7 +4,7 @@ Hello there ! My name is *Pramod Kumar*, **front-end developer**. I'm Passion-dr
 
 ## Deployment Link
 
-Open [https://portfoliopramodkumar.netlify.app/Contact](https://portfoliopramodkumar.netlify.app/Contact) in your browser to look at my Portfolio
+Open [https://portfoliopramodkumar.netlify.app](https://portfoliopramodkumar.netlify.app) in your browser to look at my Portfolio
 
 ### Features
 
