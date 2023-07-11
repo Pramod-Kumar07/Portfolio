@@ -39,7 +39,7 @@ Open [https://portfoliopramodkumar.netlify.app](https://portfoliopramodkumar.net
 
 ### Contributor
 
-*Pramod Kumar* [https://github.com/Pramod-Kumar07] (https://github.com/Pramod-Kumar07)
+*Pramod Kumar* [https://github.com/Pramod-Kumar07](https://github.com/Pramod-Kumar07)
 
 <br><br>
 Thank you for checking out my portfolio! I hope you enjoy exploring my work and getting to know me better.
